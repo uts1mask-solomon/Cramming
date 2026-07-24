@@ -8,4 +8,4 @@ fetch("questions.json")
       console.log(data[0].question);
   });
   
-  questionElement.textContent = data[0].question;
+  
